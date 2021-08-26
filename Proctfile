@@ -1,1 +1,1 @@
-web: gunicorn Krishna.wsgi.application --log-file -
+web: gunicorn Krishna.wsgi
